@@ -579,3 +579,29 @@ Cada assunto tem um único destino. Todos os itens originais estão vinculados e
 - O checklist original contém “confissão do ofendido”. O texto foi preservado no vínculo de origem; há possível erro de redação no Notion, a confirmar.
 - O item de jurisprudência relacionada não foi usado como autorização para incluir qualquer lei ou tratado ausente.
 - Constituição de PE e segurança pública têm destino único PE1. A ligação constitucional dos agentes públicos permanece em C5.1; os conceitos administrativos próprios continuam em Direito Administrativo.
+
+
+## Ampliação autorizada: Direito Militar
+
+Incluída por solicitação do usuário em 18/10/2026. Esta seção amplia o checklist original do Notion; não é apresentada como transcrição de um edital.
+
+- [ ] M1 — Direito Penal Militar: Aplicação da lei penal militar
+- [ ] M2 — Direito Penal Militar: Teoria do crime militar, imputabilidade e concurso de agentes
+- [ ] M3 — Direito Penal Militar: Penas, suspensão e livramento condicional
+- [ ] M4 — Direito Penal Militar: Medidas de segurança
+- [ ] M5 — Direito Penal Militar: Extinção da punibilidade e prescrição
+- [ ] M6 — Direito Penal Militar: Crimes contra a autoridade e a disciplina militar
+- [ ] M7 — Direito Penal Militar: Crimes contra o serviço e o dever militar
+- [ ] M8 — Direito Penal Militar: Crimes contra a pessoa
+- [ ] M9 — Direito Penal Militar: Crimes contra a administração militar
+- [ ] M10 — Direito Penal Militar: Crimes contra a administração da Justiça Militar
+- [ ] RM1 — Direito Processual Penal Militar: Aplicação e interpretação da lei processual penal militar
+- [ ] RM2 — Direito Processual Penal Militar: Polícia judiciária militar e inquérito policial militar
+- [ ] RM3 — Direito Processual Penal Militar: Ação penal militar e denúncia
+- [ ] RM4 — Direito Processual Penal Militar: Jurisdição e competência: foro, conexão e continência
+- [ ] RM5 — Direito Processual Penal Militar: Exceções, suspeição e impedimento
+- [ ] RM6 — Direito Processual Penal Militar: Prisão e medidas cautelares
+- [ ] RM7 — Direito Processual Penal Militar: Provas e perícias
+- [ ] RM8 — Direito Processual Penal Militar: Processo ordinário
+- [ ] RM9 — Direito Processual Penal Militar: Processos especiais: deserção e insubmissão
+- [ ] RM10 — Direito Processual Penal Militar: Recursos e revisão
